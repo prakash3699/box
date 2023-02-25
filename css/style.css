@@ -1,0 +1,86 @@
+
+.Skills{
+	background-color:#65647C;
+	color:#F1D3B3;
+	margin:20px;
+	padding:10px;
+	border:10px double silver;
+	font-size:20px;
+}
+
+h2{
+	text-align:center;
+}
+
+.light{
+    display:block;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;	
+}
+
+#Doorway{
+	background-color:#88A47C;
+	color:#CEE5D0;
+	margin:25px;
+	padding:12px;
+	font-size:18px;
+	border:5px black dashed;
+	font-family:monospace;
+}
+
+h2{
+	text-align:center;
+}
+
+.eye{
+    display:block;
+	margin-left:auto;
+	margin-right:auto;	
+	width:60%;
+}
+
+.Logical{
+	background-color:#C69749;
+	color:#2B3A55;
+	margin:22px;
+	padding:11px;
+	font-size:22px;
+	font-family:arieal;
+	border:14px gold inset;
+}
+
+h3{
+	text-align:center;
+}
+
+.world{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;	
+	width:70%;
+}
+	
+#Smart{
+	background-color:#FFE1E1;
+	color:#3F3B6C;
+	margin:28px;
+	padding:14px;
+	font-size:26px;
+	font-family:Helvetica;
+	border:darkblue solid;
+}
+
+h3{
+	text-align:center;
+}
+
+.study{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;	
+	width:65%;
+}
+
+	
+	
